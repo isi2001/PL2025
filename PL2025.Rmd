@@ -21,9 +21,9 @@ css: styles.css
 </style>
 ```
 
-<div class="Análisis Análisis Descriptivo de Ante-Proyecto 
+<div class="Análisis  Descriptivo de Ante-Proyecto 
 de Ley 2025 MOP">
-  <div style="font-size: 2.5em; font-weight: bold; margin-bottom: 100px; text-align: center;">Análisis Análisis Estadístico de Ante-Proyecto <br> de Ley 2025 MOP <br> Edición 2025 </div>
+  <div style="font-size: 2.5em; font-weight: bold; margin-bottom: 100px; text-align: center;">Análisis Estadístico de Ante-Proyecto <br> de Ley 2025 MOP <br> Edición 2025 </div>
   <div style="text-align: center;">
   <img src="mop.jpeg" alt="" width="30%">
 </div>
