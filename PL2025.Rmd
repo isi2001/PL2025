@@ -6136,3 +6136,17 @@ panel.grid.major.y = element_blank(),
 ## Conclusiones
 
 ## Bibliografía
+
+<div style="text-align: justify;">
+1. Número de regiones, provincias y comunas fueron recuperados de: Planilla Códigos Únicos Territoriales (CUT), 2018. Subsecretaría de Desarrollo Regional y Administrativo (SUBDERE). Recuperado a partir de: https://www.subdere.gov.cl/documentacion/c%C3%B3digos-%C3%BAnicos-territoriales-actualizados-al-06-de-septiembre-2018 <br>
+
+
+2. Proyección de población, INE. Recuperado a partir de: https://www.ine.gob.cl//estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion <br>
+
+3. Estimación de pobreza, casen 2022. Recuperado a partir de: https://observatorio.ministeriodesarrollosocial.gob.cl/pobreza-comunal-2022 <br>
+
+4. Ley de Presupuestos 2024 y 2025. Recuperado a partir del Departamento de Gestión Presupuestaria <br>
+
+5. Censo 2024, INE. Recuperado a partir de: https://censo2024.ine.gob.cl/estadisticas/
+</div>
+
